@@ -1,7 +1,7 @@
 # Project name
 
 #### 介绍
-modules 后端的前端项目
+xxxxx
 
 #### 软件架构
 软件架构说明
